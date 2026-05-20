@@ -26,6 +26,11 @@ docker-praktikum/
 │   ├── .env
 │   └── package.json
 │
+├── screenshots/
+│   ├── docker-ps.png
+│   ├── get-users.png
+│   └── dockerhub.png
+│
 ├── docker-compose.yml
 └── README.md
 ```
@@ -63,6 +68,10 @@ Container yang aktif:
 - mysql-db
 - redis-app
 - phpmyadmin-app
+
+### Screenshot Docker PS
+
+![Docker PS](screenshots/docker-ps.png)
 
 ---
 
@@ -107,6 +116,10 @@ http://localhost:3000/users
 ```
 
 Response berhasil menampilkan data user dalam format JSON.
+
+### Screenshot GET Users
+
+![GET Users](screenshots/get-users.png)
 
 ---
 
@@ -171,6 +184,10 @@ Repository Docker Hub:
 ```bash
 https://hub.docker.com/
 ```
+
+### Screenshot Docker Hub
+
+![Docker Hub](screenshots/dockerhub.png)
 
 ---
 
