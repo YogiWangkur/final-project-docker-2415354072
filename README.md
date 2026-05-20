@@ -249,5 +249,7 @@ Docker Compose mempermudah pengelolaan multi-container application. Penggunaan v
 
 # Author
 
-Nama: Yogi Wangkur  
-Repository: final-project-docker-Eugenius-2415354072
+# Author
+
+Nama: Eugenius Arlanda Wangkur  
+Repository: final-project-docker-2415354072
